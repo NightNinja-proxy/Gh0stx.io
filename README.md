@@ -1,54 +1,130 @@
-<header>
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>AcademyFalconTech.io</title>
+  </head>
+</html>
+<body style="background-color:black">
+<marquee style="color:black;">OFFICIAL WEBSITE BY ACADEMY FALCON TECHNOLOGY 2025 - Gh0stx1337 (Web Developer & Development) - Academy Falcon Technology - CyberSecurity - Education Website - Teaching About IT</marquee>
+<br>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+<style>
+  marquee {
+                 text-align: center;
+                 margin: 30px;
+                 font-size: 20px;
+                 font-weight: bolder;
+                 font-family: 'Courier New';
+                 text-shadow: 2px 2px 4px #FFFFFF;
+                 animation: color 10s infinite;
+               }
+               
+               @keyframes color {
+                 0% {color: red;}
+                 10% {color: white;}
+                 20% {color: yellow;}
+                 30% {color: blue;}
+                 40% {color: red;}
+                 50% {color: white;}
+                 60% {color: yellow;}
+                 70% {color: blue;}
+                 80% {color: red;}
+                 90% {color: white;}
+                 100% {color: yellow;}
+</style>
 
-# GitHub Pages
+<style>
+  p {
+    font-family: "Times New Roman";
+    font-size: 30px;
+  }
+  h4 {
+    font-family: "Sans-Serif";
+  }
+  
+  il {
+    font-size: 30px;
+  }
+  
+  h4 {
+    font-size: 20px;
+    font-family: "fantasy", "Times New Roman";
+  }
+  
+  h2 {
+    text-align: center;
+                 margin: 30px;
+                 font-size: 20px;
+                 font-weight: bolder;
+                 font-family: 'Courier New';
+                 text-shadow: 2px 2px 4px grey;
+                 animation: color 15s infinite;
+               }
+               
+               @keyframes color {
+                 0% {color: red;}
+                 10% {color: white;}
+                 20% {color: red;}
+                 30% {color: white;}
+                 40% {color: red;}
+                 50% {color: white;}
+                 60% {color: red;}
+                 70% {color: white;}
+                 80% {color: red;}
+                 90% {color: white;}
+                 100% {color: red;}
+  }
+  
+  h3 {
+    font-size: 35px;
+  }
+  
+  a {
+    font-size: 20px;
+  }
+</style>
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+<body>
+ <br>
+  <br>
+       <center>
+           <il style="color:white;">Powered</il>
+            <il style="color:red;">By</il>
+            <il style="color:white;">AFT</il><il style="color:red;">-</il><il style="color:white;">Team</il>
+             <br>
+              <br>
+         <img src="https://f.top4top.io/p_3374tf3se7.png" width="400">
+       </center>
+        <br>
+          <br>
+<h1 style="background-color:red;">WELCOME TO AFT Education IT</h1>
+<h3 style="background-color:white;"> WARNING </h3>
+<p style="color:red;">Anyone who takes our rights without permission, then we do not hesitate to "fight" to bring about JUSTICE just for us. </p>
+<p style="color:white;">Everything here that we express is COPYRIGHT and we do not transfer COPYRIGHT before moving to our name</p>
+ <h3 style="background-color:red;">Everything is for EDUCATION ONLY </h3>
+  <br>
+    <br>
+      <br>
+  <center>
+     <br>
+     <h2 style="color:white">INTRODUCTION</h2>
+      <br>
+    <img src="https://j.top4top.io/p_3374l7az97.png" width="300">
+    <img src="https://g.top4top.io/p_3374h8b2u7.png" width="300">
+    <img src="https://j.top4top.io/p_337484gjw7.jpg" width="300">
+     <br>
+    <il style="color:red;">Academy Falcon Technology</il>
+     <br>
+    <a href="" style="color:darkblue;">FalconSec.com</a>
+      <br>
+        <br>
+          <h4 style="color:red;">Developer</h4>
+           <img src="https://j.top4top.io/p_3374k20ab7.png" width="125">
+           <img src="https://l.top4top.io/p_3374a9ut37.png" width="125">
+           <img src="https://k.top4top.io/p_3374r2oek7.png" width="125">
+          <br>
+       <img src="https://b.top4top.io/p_33742c7un7.png" width="30">
+        <br>
+       <a href="https://t.me/GH0STX1337">click me</a>
+  </center>
+</body>
